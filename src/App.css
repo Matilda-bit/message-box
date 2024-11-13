@@ -36,7 +36,7 @@
 
 .input-form textarea {
   max-width: 800px;
-  min-width: 300px;
+  min-width: 18rem;
   min-height: 30px;
   padding: 10px;
   border: solid 1px white;
@@ -74,9 +74,9 @@
   }
 
   .input-form textarea {
-    max-width: 300px;
-    min-width: 240px;
-    margin-bottom: 10px;
+    max-width: 90%;
+    min-width: 90%;
+    margin: 20px auto;
   }
   .App-header {
     font-size: 25px;
